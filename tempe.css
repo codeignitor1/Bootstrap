@@ -1,0 +1,161 @@
+.menu{
+    font-size: 20px;
+    padding-bottom: 500;
+}
+ul{
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+   float: right;
+    padding-right: 150px;
+    font-family: sans-serif;
+}
+#learn{
+    padding-right: 400px;
+}
+#about{
+    padding-left: 80px;
+}
+li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+.image{
+    max-width: 100%;
+    max-height: 50%;
+}
+.imgtxt{
+    position: relative;
+    text-align: center;
+    color: #285e8e;
+    font-size: 60px;
+    font-family: sans-serif;
+    
+}
+.center{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+}
+.textblw{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #285e8e;
+    font-size: 30px;
+}
+.button1{
+     position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    background: #42ca9b;
+    padding: 16px 20px;
+    margin: 28px 0px 10px 0px;
+    border-radius: 7px;
+       box-shadow: 1px 1px 1px #2e8c6b;
+}
+.img2{
+    padding-left: 20px;}
+.explore{
+       font-family: sans-serif;
+    color: #285e8e;
+    
+    margin-left: 55%;
+    margin-top: -15%;
+}
+    
+}
+span{
+    font-weight: bold;
+}
+.textside{
+    font-family: sans-serif;
+    font-size:25px;
+    margin-left: 55%;
+    color: grey;
+}
+.videos1{
+    margin-top: 6%;
+    margin-left: 2%;
+}
+.stud{
+   padding-top: 100px;
+}
+#student{
+    color: #285e8e;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#whet{
+    color: grey;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+hr{
+     margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    width: 90%;
+}
+.podcast{
+    position: relative;
+    min-height: 340px;
+    border: 1px solid #B9CEE7;
+    padding-top: 30px;
+    border-radius: 5px;
+        width: 220px;
+    max-width: 220px;
+}
+.podcast p{
+    font-family: sans-serif;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+.deliver{
+     position: relative;
+    min-height: 340px;
+    border: 1px solid #B9CEE7;
+    padding-top: 30px;
+    border-radius: 5px;
+        width: 220px;
+    max-width: 220px;
+}
+.deliver p{
+   font-family: sans-serif;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
+.peer{
+    position: relative;
+    min-height: 340px;
+    border: 1px solid #B9CEE7;
+    padding-top: 30px;
+    border-radius: 5px;
+        width: 220px;
+    max-width: 220px;
+}
+.peer p{
+    font-family: sans-serif;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+}
